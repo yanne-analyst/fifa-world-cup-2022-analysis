@@ -14,8 +14,7 @@ Full match-level analysis of all 64 FIFA World Cup 2022 matches, testing common 
 ## Dashboard
 
 
-![Dashboard](wc2022_dashboard.png)
-
+![Dashboard Preview](./5904525325931057252.jpg)
 
 
 ## Tools & Approach
